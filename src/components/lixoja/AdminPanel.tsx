@@ -21,6 +21,7 @@ import {
   AlertTriangle,
   TrendingUp,
   Map,
+  RefreshCw,
 } from 'lucide-react';
 
 export default function AdminPanel() {
