@@ -1,0 +1,12 @@
+{
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [
+    "static/2vdTVMOrIspWS7550cKVc/_ssgManifest.js",
+    "static/2vdTVMOrIspWS7550cKVc/_buildManifest.js"
+  ],
+  "rootMainFiles": []
+}

@@ -27,6 +27,10 @@ export interface AgendaItem {
   tipoResiduo: string;
   horarioInicio: string | null;
   horarioFim: string | null;
+  bairro?: {
+    id: number;
+    nome: string;
+  } | null;
 }
 
 export interface Veiculo {

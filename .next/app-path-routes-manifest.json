@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/agenda/route": "/api/agenda",
+  "/api/bairros/route": "/api/bairros",
+  "/api/relatos/[id]/route": "/api/relatos/[id]",
+  "/api/relatos/route": "/api/relatos",
+  "/api/route": "/api",
+  "/api/simular/route": "/api/simular",
+  "/api/veiculos/route": "/api/veiculos",
+  "/page": "/"
+}
